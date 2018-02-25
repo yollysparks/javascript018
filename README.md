@@ -58,8 +58,10 @@ ES6-7 and TypeScript
 
 •	Provide examples with es6, running in a browser, using Babel and Webpack
 
-•	Provide an number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
-Callbacks, Promises and async/await
+Q:•	Provide an number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
+   Callbacks, Promises and async/await
+   
+A: https://github.com/yollysparks/typescript/tree/master/excercise/src
 
 
 Explain about promises in ES-6 including, the problems they solve, a quick explanation of the Promise API and:
